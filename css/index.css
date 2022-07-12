@@ -1,0 +1,26 @@
+h1{
+    color: #212f3c;
+    font-size: 30px;
+    text-align: center;           
+}
+#parrafo_uno
+{
+    color:  #a04000;
+    font-size: 20px;
+    width: 1000px;
+    height: 150px;
+    text-align: justify;
+}
+.parrafo_dos
+{
+    color:  #27ae60;
+    font-size: 20px;
+    width: 1000px;
+    height: 150px;
+    text-align: justify;
+}
+
+.img1 
+{
+    float: right;
+}
