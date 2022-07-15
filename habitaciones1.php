@@ -85,19 +85,44 @@
     <select style="background: white;" name="tipo_h" class="form-control">
         <option selected >Suit</option>
         <option>Doble</option>
-        <option>Triple</option>
+        <option>Master</option>
     </select>
   </div>
   <br>
 
   <div class="form-group">
-    <label for="tipo_h">Precio: </label>
-    <input class="form-control" name ="precio_h"></input>
+    <label for="tipo_h">Codigo: </label>
+    <input class="form-control" name ="codigo_h"></input>
+  </div>
+
+  <div class="form-group">
+    <label for="tipo_h">Empleado: </label>
+    <input class="form-control" name ="empleado_h"></input>
+  </div>
+
+  <div class="form-group">
+    <label for="tipo_h">Nombre del cliente: </label>
+    <input class="form-control" name ="cliente_h"></input>
+  </div>
+
+  <div class="form-group">
+    <label for="tipo_h">Fecha Entrada: </label>
+    <input class="form-control" name ="fechae_h"></input>
+  </div>
+
+  <div class="form-group">
+    <label for="tipo_h">Fecha Salida: </label>
+    <input class="form-control" name ="fechas_h"></input>
   </div>
 
   <div class="form-group">
     <label for="tipo_h">Cantidad: </label>
     <input class="form-control" name ="cantidad_h"></input>
+  </div>
+
+  <div class="form-group">
+    <label for="tipo_h">Precio: </label>
+    <input class="form-control" name ="precio_h"></input>
   </div>
 
   
